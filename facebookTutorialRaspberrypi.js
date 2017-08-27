@@ -8,7 +8,7 @@ var board = new five.Board({
 });
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyCIJfFyAHjx4LCtpEat60vWAVzb9Jjg-6U",
+    apiKey: "AIzaSyCIxxxxxxxxxxxxxxxxx-XX",
     authDomain: "facebooktutorial-6e2fa.firebaseapp.com",
     databaseURL: "https://facebooktutorial-6e2fa.firebaseio.com",
     projectId: "facebooktutorial-6e2fa",
